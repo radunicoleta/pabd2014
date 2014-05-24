@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 abcccccccc 
 aa
 
@@ -172,3 +173,6 @@ Enjoy!
 [11]: http://symfony.com/doc/2.4/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
+=======
+Sonia
+>>>>>>> 7c1a9dc9d1bab9b648a2ea576f2ba2c2a6437dff
