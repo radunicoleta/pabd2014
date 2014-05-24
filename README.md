@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 abcccccccc 
 aa
+new edit for testing
 
 Symfony Standard Edition
 ========================
