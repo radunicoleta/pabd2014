@@ -3,7 +3,7 @@
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
-    "autoload": {
+    "NicoHelloBundle": {
         "psr-0": { "": "src/" }
     },
     "require": {

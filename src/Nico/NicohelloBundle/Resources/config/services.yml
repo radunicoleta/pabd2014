@@ -1,0 +1,7 @@
+parameters:
+#    nico_nicohello.example.class: Nico\NicohelloBundle\Example
+
+services:
+#    nico_nicohello.example:
+#        class: %nico_nicohello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

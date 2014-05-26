@@ -1,0 +1,9 @@
+body
+{
+	background: url('../images/background.jpg');
+}
+.imgNico{ width: 500px;
+          height: 400px;
+          background: url('../images/nico.jpg') 
+          background-size: 500px 400px;
+}
